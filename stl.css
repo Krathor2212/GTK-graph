@@ -1,0 +1,28 @@
+button {
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+
+#post_message {
+    background: lightblue;
+    color: black;
+}
+
+#target_ads {
+    background: lightgreen;
+    color: black;
+}
+
+#dominance {
+    background: lightcoral;
+    color: black;
+}
+
+#quit {
+    background: lightgrey;
+    color: black;
+}
+
