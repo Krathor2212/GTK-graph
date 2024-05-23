@@ -1,3 +1,9 @@
+/*
+Compile using [g++ v4.cpp -o gui `pkg-config --cflags --libs gtkmm-3.0`]
+*/
+
+
+
 #include <gtkmm.h>
 #include <iostream>
 #include <unordered_map>
